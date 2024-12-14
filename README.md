@@ -3,17 +3,17 @@
 </h1>
 
 <p align="left">
-   🚀 I'm a Computer Science student from Egypt passionate about building software and solving real-world problems through code.
+   I'm a Computer Science student from Egypt passionate about building software and solving real-world problems through code.
 </p>
 
 <p align="center">
-   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=007BFF&width=435&lines=Welcome+to+my+profile!" alt="Typing Animation">
+   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=29&pause=1000&color=007BFF&width=435&lines=Welcome+to+my+profile!" alt="Typing Animation">
 </p>
 
 
 ---
 
-### 🚀 About Me  
+###  About Me  
 - 💻 **CSE Student** exploring the world of **Software Development**.  
 - 🌱 I’m currently learning **Data Structures, Algorithms, and Flutter** to level up my coding skills.  
 - 📫 **How to reach me**:
@@ -33,9 +33,7 @@
 
 
 
-<p align="center">
-  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="400" />
-</p>
+
 
 <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="400" />
 
