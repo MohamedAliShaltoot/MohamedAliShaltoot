@@ -1,6 +1,7 @@
 <h1 align="left">
    Hi, I'm Mohamed Ali <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 </h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0000ff&width=436&lines=Welcome+To+my+Github+Profile+.+.+.;I'm+interested+in+DS+%26+ML.)](https://git.io/typing-svg)
  I'm a CSE student from Egypt passionate about software development.
 
 <!--
