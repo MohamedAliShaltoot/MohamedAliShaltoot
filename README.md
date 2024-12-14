@@ -2,6 +2,10 @@
    Hi, I'm Mohamed Ali <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 </h1>
  I'm a CSE student from Egypt passionate about software development.
+  Skills:
+ Languages:
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp;
+![C](https://img.shields.io/badge/C-283395?style=for-the-badge&logo=C&logoColor=white)&nbsp;
 <!--
 **MohamedAliShaltoot/MohamedAliShaltoot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
