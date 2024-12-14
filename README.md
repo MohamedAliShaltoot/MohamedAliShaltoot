@@ -1,5 +1,7 @@
-## Hi there 👋
-
+<h1 align="left">
+  ## Hi, I'm Mohamed Ali <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
+</h1>
+### I'm a CSE student from Egypt passionate about software development.
 <!--
 **MohamedAliShaltoot/MohamedAliShaltoot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
