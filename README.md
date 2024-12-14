@@ -34,13 +34,6 @@
 
 
 
-### 🚀 Let's Connect!  
-<p align="center">
-   <a href="https://www.linkedin.com/in/muhamed-ali-shaltoot/" target="_blank">
-      <img src="https://img.icons8.com/color/48/000000/linkedin.png" />
-   </a>
-   <a href="mailto:mohamedali3092002@gmail.com" target="_blank">
-      <img src="https://img.icons8.com/color/48/000000/gmail-new.png" />
-   </a>
-</p>
+<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="400" />
+
 
