@@ -6,12 +6,18 @@
    🚀 I'm a Computer Science student from Egypt passionate about building software and solving real-world problems through code.
 </p>
 
+<p align="center">
+   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=007BFF&width=435&lines=Welcome+to+my+profile!" alt="Typing Animation">
+</p>
+
+
 ---
 
 ### 🚀 About Me  
 - 💻 **CSE Student** exploring the world of **Software Development**.  
 - 🌱 I’m currently learning **Data Structures, Algorithms, and Flutter** to level up my coding skills.  
-- 📫 **How to reach me**:  
+- 📫 **How to reach me**:
+- 
    [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhamed-ali-shaltoot/)  
    [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamedali3092002@gmail.com)  
 
