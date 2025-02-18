@@ -20,14 +20,16 @@
 - 
    [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhamed-ali-shaltoot/)  
    [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamedali3092002@gmail.com)
-  **GitHub:** [mohamed-ali](https://github.com/MohamedAliShaltoot)
+  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=black)](https://github.com/MohamedAliShaltoot) 
+  
 
 ---
 
 ## 📂 **Projects & Contributions**  
 🔹 **[Project 1: Notes App](https://github.com/MohamedAliShaltoot/TODo_App)** – A Flutter-based **note-taking app** with **SqfLite technique**.  
-🔹 **[Project 2: Tasbih App](https://github.com/MohamedAliShaltoot/Tasbih-application)** – A simple app that counting tasbih .  
+🔹 **[Project 2: Tasbih App](https://github.com/MohamedAliShaltoot/Tasbih-application)** –An App that counting tasbih .  
 🔹 **[Project 3: XO Game](https://github.com/MohamedAliShaltoot/XO_Game)**   
+🔹 **[Project 4: Extra Exercise](https://github.com/MohamedAliShaltoot/Apply-on-widgets)** – Improving my skills .  
 
 ---
 
