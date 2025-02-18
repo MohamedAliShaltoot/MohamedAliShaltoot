@@ -15,7 +15,7 @@
 
 ###  About Me  
 - 💻 **CSE Student** exploring the world of **Software Development**.  
-- 🌱 I’m currently learning **Data Structures, Algorithms, and Flutter** to level up my coding skills.  
+- 🌱 I’m currently learning ** Database Systems, Backend, Data Structures, Algorithms, and Flutter** to improve my coding skills.  
 - 📫 **How to reach me**:
 - 
    [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhamed-ali-shaltoot/)  
