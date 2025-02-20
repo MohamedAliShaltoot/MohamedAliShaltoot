@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=29&pause=1000&color=002f62&width=435&lines=Welcome+to+my+profile!" alt="Typing Animation">
+   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=29&pause=1000&color=eb3461&width=435&lines=Welcome+to+my+profile!" alt="Typing Animation">
 </p>
 
 
