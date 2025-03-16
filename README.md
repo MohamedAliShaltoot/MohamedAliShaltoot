@@ -66,7 +66,11 @@
 
 ![](https://komarev.com/ghpvc/?username=MohamedAliShaltoot&label=PROFILE+VIEWS&color=blue&style=for-the-badge)
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark) 
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
+
+![Good Morning | Good Evening](https://readme-time.vercel.app/api?theme=dark)
+
 
 <p align="center">
    <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400" />
