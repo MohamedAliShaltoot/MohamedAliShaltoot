@@ -22,9 +22,17 @@
 ---
 
 ## 📫 Connect With Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhamed-ali-shaltoot/)  
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamedali3092002@gmail.com)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=black)](https://github.com/MohamedAliShaltoot)  
+<p align="left">
+   <a href="https://www.linkedin.com/in/muhamed-ali-shaltoot/">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+   </a>
+   <a href="mailto:mohamedali3092002@gmail.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+   </a>
+   <a href="https://github.com/MohamedAliShaltoot">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=black" alt="GitHub">
+   </a>
+</p>
 
 ---
 
@@ -46,36 +54,45 @@
 
 ## 📂 Featured Projects  
 🔹 **[📒 Notes App](https://github.com/MohamedAliShaltoot/TODo_App)** – A **Flutter-based** note-taking app using **SqfLite for local storage**.  
-🔹 **[🕌 Tasbih App](https://github.com/MohamedAliShaltoot/Tasbih-application)** – A counter app for **tasbih and dhikr tracking**.  
+🔹 **[🕌 Tasbih App](https://github.com/MohamedAliShaltoot/Tasbih-application)** – A counter app for **tasbih and dhikr tracking / private now**.  
 🔹 **[❌⭕ XO Game](https://github.com/MohamedAliShaltoot/XO_Game)** – A simple **Tic-Tac-Toe game** built using Flutter.  
 🔹 **[📌 Extra Exercises](https://github.com/MohamedAliShaltoot/Apply-on-widgets)** – A repository for **Flutter widgets practice and learning**.  
 
 ---
 
+## 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=MohamedAliShaltoot&theme=tokyonight" width="400">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedAliShaltoot&layout=compact&langs_count=8&theme=tokyonight" width="400">
+</p>
+
+---
+
+## 🏆 GitHub Achievements  
 [![trophy](https://github-profile-trophy.vercel.app/?username=MohamedAliShaltoot&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedAliShaltoot&layout=compact&langs_count=8&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
----
-
-## 📊 GitHub Stats  
-![GitHub Snake Animation](https://github.com/MohamedAliShaltoot/MohamedAliShaltoot/blob/output/github-contribution-grid-snake.svg)
-
----
-
-![](https://komarev.com/ghpvc/?username=MohamedAliShaltoot&label=PROFILE+VIEWS&color=blue&style=for-the-badge)
-
-![Jokes Card](https://readme-jokes.vercel.app/api)
-
-
-![Good Morning | Good Evening](https://readme-time.vercel.app/api?theme=dark)
-
-
+## ⏰ Good Morning | Good Evening  
 <p align="center">
-   <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400" />
+   <img src="https://readme-time.vercel.app/api?theme=tokyonight" width="350">
 </p>
 
+---
+
+## 🤣 Random Developer Joke  
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
 
 ---
-  
+
+## 👀 Profile Views  
+<p align="center">
+   <img src="https://komarev.com/ghpvc/?username=MohamedAliShaltoot&label=PROFILE+VIEWS&color=blue&style=for-the-badge">
+</p>
+
+---
+
+## 👨‍💻 Keep Coding  
+<p align="center">
+   <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400">
+</p>
