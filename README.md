@@ -56,12 +56,14 @@
 
 ---
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedAliShaltoot&layout=compact&langs_count=8&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+---
+
 ## 📊 GitHub Stats  
 [![GitHub Streak](https://streak-stats.demolab.com?user=MohamedAliShaltoot&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 ---
 
-### 💬 **Random Dev Quote**
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark) 
 
 <p align="center">
