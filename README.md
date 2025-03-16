@@ -53,13 +53,8 @@
 ---
 
 ## 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohamedAliShaltoot&theme=radical&hide_border=true&border_radius=10">
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=MohamedAliShaltoot&show_icons=true&theme=radical&hide_border=true&border_radius=10">
-  <br>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MohamedAliShaltoot&theme=radical">
-</p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=MohamedAliShaltoot&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
 
 
 ---
