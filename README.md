@@ -57,13 +57,17 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohamedAliShaltoot&theme=radical&hide_border=true&border_radius=10">
   <br>
   <img src="https://github-readme-stats.vercel.app/api?username=MohamedAliShaltoot&show_icons=true&theme=radical&hide_border=true&border_radius=10">
+  <br>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MohamedAliShaltoot&theme=radical">
 </p>
+
 
 ---
 
 <p align="center">
-   <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="400" />
+   <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400" />
 </p>
+
 
 ---
   
