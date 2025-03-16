@@ -52,12 +52,17 @@
 
 ---
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=MohamedAliShaltoot&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
 ## 📊 GitHub Stats  
 [![GitHub Streak](https://streak-stats.demolab.com?user=MohamedAliShaltoot&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
-
-
 ---
+
+### 💬 **Random Dev Quote**
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark) 
 
 <p align="center">
    <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400" />
