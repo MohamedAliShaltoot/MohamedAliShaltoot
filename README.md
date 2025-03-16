@@ -71,12 +71,6 @@
 ## 🏆 GitHub Achievements  
 [![trophy](https://github-profile-trophy.vercel.app/?username=MohamedAliShaltoot&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
 
----
-
-## ⏰ Good Morning | Good Evening  
-<p align="center">
-   <img src="https://readme-time.vercel.app/api?theme=tokyonight" width="350">
-</p>
 
 ---
 
