@@ -61,6 +61,7 @@
 
 ## 📊 GitHub Stats  
 ![GitHub Snake Animation](https://github.com/MohamedAliShaltoot/MohamedAliShaltoot/blob/output/github-contribution-grid-snake.svg)
+
 ---
 
 ![](https://komarev.com/ghpvc/?username=MohamedAliShaltoot&label=PROFILE+VIEWS&color=blue&style=for-the-badge)
