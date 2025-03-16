@@ -60,7 +60,8 @@
 ---
 
 ## 📊 GitHub Stats  
-[![GitHub Streak](https://streak-stats.demolab.com?user=MohamedAliShaltoot&theme=dark&hide_border=true)](https://git.io/streak-stats)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MohamedAliShaltoot&theme=github-dark)
+
 
 ---
 
