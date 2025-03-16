@@ -27,7 +27,7 @@
 
 ## 📂 **Projects & Contributions**  
 🔹 **[Project 1: Notes App](https://github.com/MohamedAliShaltoot/TODo_App)** – A Flutter-based **note-taking app** with **SqfLite technique**.  
-🔹 **[Project 2: Tasbih App](https://github.com/MohamedAliShaltoot/Tasbih-application)** –An App that counting tasbih .  
+🔹 **[Project 2: Tasbih App](https://github.com/MohamedAliShaltoot/Tasbih-application)** –An App that counting tasbih / private now .  
 🔹 **[Project 3: XO Game](https://github.com/MohamedAliShaltoot/XO_Game)**   
 🔹 **[Project 4: Extra Exercise](https://github.com/MohamedAliShaltoot/Apply-on-widgets)** – Improving my skills .  
 
