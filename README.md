@@ -54,7 +54,7 @@
 
 ## 📂 Featured Projects  
 🔹 **[📒 Notes App](https://github.com/MohamedAliShaltoot/TODo_App)** – A **Flutter-based** note-taking app using **SqfLite for local storage**.  
-🔹 **[🕌 Tasbih App](https://github.com/MohamedAliShaltoot/Tasbih-application)** – A counter app for **tasbih and dhikr tracking / private now**.  
+🔹 **[🕌 Tasbih App](https://github.com/MohamedAliShaltoot/Tasbih-application)** – A counter app for **tasbih and dhikr tracking **.  
 🔹 **[❌⭕ XO Game](https://github.com/MohamedAliShaltoot/XO_Game)** – A simple **Tic-Tac-Toe game** built using Flutter.  
 🔹 **[📌 Extra Exercises](https://github.com/MohamedAliShaltoot/Apply-on-widgets)** – A repository for **Flutter widgets practice and learning**.  
 
