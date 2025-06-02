@@ -53,9 +53,10 @@
 ---
 
 ## 📂 Featured Projects  
+🔹 **[E-commerce App](https://github.com/MohamedAliShaltoot/NTI_E-commerce-Stylish-App-)** – "Creating a cross-border E-commerce platform to facilitate trade and enhance user experience worldwide."
+🔹 **[📒 Tasks App](https://github.com/MohamedAliShaltoot/TODO_App_with_APIs_Integration-)** –A task management application that allows users to **[ add, edit, and delete tasks effortlessly. Features include user authentication, profile management (username, password, and profile picture), and the ability to delete user accounts ] **. Stay organized and secure with this intuitive tool!.  
 🔹 **[📒 Notes App](https://github.com/MohamedAliShaltoot/TODo_App)** – A **Flutter-based** note-taking app using **SqfLite for local storage**.  
 🔹 **[🕌 Tasbih App](https://github.com/MohamedAliShaltoot/Tasbih-application)** – A counter app for **tasbih and dhikr tracking**.  
-🔹 **[❌⭕ XO Game](https://github.com/MohamedAliShaltoot/XO_Game)** – A simple **Tic-Tac-Toe game** built using Flutter.  
 🔹 **[📌 Extra Exercises](https://github.com/MohamedAliShaltoot/Apply-on-widgets)** – A repository for **Flutter widgets practice and learning**.  
 
 ---
@@ -76,15 +77,6 @@
 
 ## 🤣 Random Developer Joke  
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
-
----
-
-## 👀 Profile Views  
-<p align="center">
-   <img src="https://komarev.com/ghpvc/?username=MohamedAliShaltoot&label=PROFILE+VIEWS&color=blue&style=for-the-badge">
-</p>
-
----
 
 ## 👨‍💻 Keep Coding  
 <p align="center">
