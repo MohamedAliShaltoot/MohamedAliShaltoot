@@ -78,16 +78,16 @@
 ## 📊 GitHub Activity & Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=MohamedAliShaltoot&theme=tokyonight" width="400" alt="GitHub Streak Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedAliShaltoot&layout=compact&langs_count=8&theme=tokyonight" width="400" alt="Top Languages">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MohamedAliShaltoot&theme=github" alt=" Mُohamed Ali's Activity Graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=MohamedAliShaltoot&theme=react" width="400" alt="GitHub Streak Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedAliShaltoot&layout=compact&langs_count=8&theme=react" width="400" alt="Top Languages">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MohamedAliShaltoot&theme=github-compact" alt=" Mُohamed Ali's Activity Graph" />
 </p>
 
 ---
 
 ## 🏆 GitHub Achievements
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=MohamedAliShaltoot&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=MohamedAliShaltoot&theme=react)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
