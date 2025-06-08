@@ -18,7 +18,7 @@
 - 💡 My current focus areas include **Mobile App Development** (primarily with Flutter), **Backend Development**, and strengthening my foundations in **Data Structures & Algorithms**.
 - 📚 I'm always expanding my knowledge in **Database Systems, API Integration, and System Design**.
 - ✍️ I'm committed to writing **clean, efficient, and scalable code**.
-- 💬 Feel free to ask me about **Flutter, Dart, Kotlin, or Backend Development**.
+- 💬 Feel free to ask me about **Flutter, Dart, Kotlin, JavaScript, Node.js, or Backend Development**.
 
 ---
 
@@ -45,8 +45,8 @@
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-**![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)**
-**![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)**
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
 ### 🔹 Tools & Platforms
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
@@ -79,7 +79,7 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=MohamedAliShaltoot&theme=tokyonight" width="400" alt="GitHub Streak Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedAliShaltoot&layout=compact&langs_count=8&theme=tokyonight" width="400" alt="Top Languages">
+  <img src="https://github.com/MohamedAliShaltoot/github-readme-stats/api/top-langs/?username=MohamedAliShaltoot&layout=compact&langs_count=8&theme=tokyonight" width="400" alt="Top Languages">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MohamedAliShaltoot&theme=tokyonight" alt="Mohamed Ali's Activity Graph" />
 </p>
 
@@ -91,55 +91,11 @@
 
 ---
 
----
+## 👋 Let's Connect & Collaborate!
 
-## ✨ Thanks for Visiting!
+I'm always eager to collaborate on exciting projects, learn from others, or contribute to open-source initiatives. Feel free to reach out if you have an idea or just want to chat about tech!
 
-<p align="center">
-  <img src="https://media.giphy.com/media/efyWw3dE26hU0s2k8t/giphy.gif" width="300" alt="Thank You GIF">
-</p>
-
----
-
-### **Explanation of Updates & Clarifications:**
-
-1.  **Updated `<h1>` Greeting:**
-    * I've implemented your new `<h1>` structure: `align="center"`, `font-weight: bold;`, and `background-color: yellow;` for the entire heading.
-    * Your name is now inside a `<mark style="color: red;">` tag, making it red on the yellow highlight.
-    * The `🦅🦅🦅` emojis replace the waving GIF.
-    * **Important Note on Styling:** While these inline styles (`background-color`, `font-weight`) are included, GitHub's own CSS for `<h1>` elements is very strong. The `background-color: yellow` might not always render perfectly or might be overridden depending on the viewer's GitHub theme (e.g., dark mode). Test it on your actual GitHub profile to see how it appears!
-
-2.  **JS and Node.js Added to Tech Stack:**
-    * I've added the **JavaScript** and **Node.js** badges to your "Languages & Frameworks" section, ensuring they use the `style=for-the-badge` for consistency.
-
-3.  **"Random Developer Joke" Image Replaced:**
-    * The `readme-jokes.vercel.app` image can sometimes fail to load. To replace it with "another strong one" that's reliable and adds professional value, I suggest a **"Looking for / Open to" section**. This is highly beneficial if you're seeking opportunities or collaborators.
-    * I've removed the `Random Developer Joke` section and its image. You can replace the section with this:
-
-    ```markdown
-    ---
-    ## 👋 Let's Connect & Collaborate!
-
-    I'm always eager to collaborate on exciting projects, learn from others, or contribute to open-source initiatives. Feel free to reach out if you have an idea or just want to chat about tech!
-
-    **I'm currently open to:**
-    - **Internship opportunities** in Mobile Development or Backend Engineering.
-    - Contributing to **Flutter-based open-source projects**.
-    - Exploring **new backend technologies** and **system design challenges**.
-    ```
-    *You can adjust the "I'm currently open to:" list to match your exact availability and interests.*
-
-4.  **Graph Dynamism Confirmation:**
-    * Yes, the **GitHub Activity Graph** (`https://github-readme-activity-graph.vercel.app/graph`) is indeed **dynamic**. It pulls your latest GitHub activity data every time your README is loaded, so it always shows your most up-to-date contributions. It's a great feature to have!
-
-5.  **Highlighting All Bold Text with Color `eb3461`:**
-    * This is a common request, but unfortunately, **direct styling of all `**bold**` Markdown text with a specific color is not reliably possible on GitHub READMEs.**
-    * When you use `**text**`, Markdown converts it to an HTML `<strong>` or `<b>` tag. GitHub's platform-level CSS then styles these tags (including their color) to ensure consistency across the site (especially with dark mode).
-    * **Inline `style="color: #eb3461;"` declarations are often overridden** by GitHub's more powerful global styling rules when applied directly to `<strong>` or `<b>` tags.
-    * **Workaround:** The only way to ensure specific text is colored is to wrap it directly in an HTML `<span>` tag with the `style` attribute, like this: `<span style="color: #eb3461;">**Your Bold Text**</span>`. However, applying this everywhere you use `**bold**` would make your Markdown extremely cluttered and difficult to read and maintain.
-
-Given these limitations, it's usually best to:
-* Use custom colors sparingly (e.g., for your name or specific badge text where it's more robust).
-* Rely on GitHub's default styling for general bold text (`**text**`) for better readability and maintainability of your Markdown source.
-
-How do these comprehensive changes and explanations feel? Let me know if you'd like to adjust anything further!
+**I'm currently open to:**
+- **Internship opportunities** in Mobile Development or Backend Engineering.
+- Contributing to **Flutter-based open-source projects**.
+- Exploring **new backend technologies** and **system design challenges**.
