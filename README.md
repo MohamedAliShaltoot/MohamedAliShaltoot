@@ -78,7 +78,7 @@
 ## 📊 GitHub Activity & Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=MohamedAliShaltoot&theme=one-dark" width="400" alt="GitHub Streak Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=MohamedAliShaltoot&theme=cobalt" width="400" alt="GitHub Streak Stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedAliShaltoot&layout=compact&langs_count=8&theme=one-dark" width="400" alt="Top Languages">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MohamedAliShaltoot&theme=one-dark" alt=" Mُohamed Ali's Activity Graph" />
 </p>
