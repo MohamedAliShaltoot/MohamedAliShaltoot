@@ -79,8 +79,8 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=MohamedAliShaltoot&theme=react" width="400" alt="GitHub Streak Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedAliShaltoot&layout=compact&langs_count=8&theme=dracula" width="400" alt="Top Languages">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MohamedAliShaltoot&theme=dracula" alt=" Mُohamed Ali's Activity Graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedAliShaltoot&layout=compact&langs_count=8&theme=one-dark" width="400" alt="Top Languages">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MohamedAliShaltoot&theme=one-dark" alt=" Mُohamed Ali's Activity Graph" />
 </p>
 
 ---
