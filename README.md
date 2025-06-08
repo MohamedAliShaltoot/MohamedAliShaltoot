@@ -87,7 +87,7 @@
 
 ## 🏆 GitHub Achievements
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=MohamedAliShaltoot&theme=one-dark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=MohamedAliShaltoot&theme=cobalt)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
