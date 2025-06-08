@@ -1,5 +1,5 @@
-<p align="center" style="font-weight: bold;color:yellow ; ">
-  Hi there, I'm <span style="color: #eb3461;">Mohamed Ali!</span> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" color="green">
+<p align="center" style="font-weight: bold;background-color:yellow ; ">
+  Hi there, I'm <mark style="color: #eb3461;">Mohamed Ali!</mark> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" color="green">
 </p>
 
 <p align="left">
