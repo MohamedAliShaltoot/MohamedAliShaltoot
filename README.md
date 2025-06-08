@@ -1,6 +1,6 @@
-<h1 align="center">
+<p align="center" style="font-weight: bold; font-size: 2.5em;">
   Hi there, I'm <span style="color: #eb3461;">Mohamed Ali!</span> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
-</h1>
+</p>
 
 <p align="left">
   🚀 A passionate **Computer Science Student** from Egypt, focused on **Software Development**, building **scalable applications**, and solving real-world problems through code. I'm currently specializing in **Mobile App Development** with Flutter and diving deep into **Backend Development**.
