@@ -30,14 +30,34 @@ Passionate Computer Science student with expertise in **Mobile Application Devel
 
 ## 🏆 Certifications & Training
 
-1. 🎓 **Mobile App Development using Flutter** — *NTI (National Telecommunication Institute)*  
-   [![Certificate](https://img.shields.io/badge/View%20Certificate-4285F4?style=flat-square&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1fkOUlEqTuihnKLNZ8qIgoY7Oxn_63YPU/view?usp=sharing)
+1. <b>Mobile App Development using Flutter</b> — <i>NTI (National Telecommunication Institute)</i><br>
+<a href="https://drive.google.com/file/d/1fkOUlEqTuihnKLNZ8qIgoY7Oxn_63YPU/view?usp=sharing" target="_blank">
+  <img src="https://img.shields.io/badge/View%20Certificate-F39C12?style=for-the-badge&logo=google-drive&logoColor=black" 
+       style="border-radius:6px; transition:0.3s;" 
+       onmouseover="this.style.backgroundColor='#D35400'" 
+       onmouseout="this.style.backgroundColor=''"/>
+</a>
 
-2. 🎓 **Mobile App Development [Android & Flutter]** — *DEPI, Mansoura Branch*  
-   [![Certificate](https://img.shields.io/badge/View%20Certificate-4285F4?style=flat-square&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1p0wVJuX75ltH2v7ZdXeMs_3f4ctjE8-Y/view?usp=sharing)
+<br>
 
-3. 🎓 **Cross Platform App Development using Flutter** — *Frontend Masters (Online)*  
-   [![Certificate](https://img.shields.io/badge/View%20Certificate-4285F4?style=flat-square&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1Oe9bqEoWR-c2F7zXfSHhv4bl68-z-AhD/view?usp=sharing)
+2. <b>Mobile App Development [Android & Flutter]</b> — <i>DEPI, Mansoura Branch</i><br>
+<a href="https://drive.google.com/file/d/1p0wVJuX75ltH2v7ZdXeMs_3f4ctjE8-Y/view?usp=sharing" target="_blank">
+  <img src="https://img.shields.io/badge/View%20Certificate-F39C12?style=for-the-badge&logo=google-drive&logoColor=black" 
+       style="border-radius:6px; transition:0.3s;" 
+       onmouseover="this.style.backgroundColor='#D35400'" 
+       onmouseout="this.style.backgroundColor=''"/>
+</a>
+
+<br>
+
+3. <b>Cross Platform App Development using Flutter</b> — <i>Frontend Masters (Online)</i><br>
+<a href="https://drive.google.com/file/d/1Oe9bqEoWR-c2F7zXfSHhv4bl68-z-AhD/view?usp=sharing" target="_blank">
+  <img src="https://img.shields.io/badge/View%20Certificate-F39C12?style=for-the-badge&logo=google-drive&logoColor=black" 
+       style="border-radius:64px; transition:0.3s;" 
+       onmouseover="this.style.backgroundColor='#D35400'" 
+       onmouseout="this.style.backgroundColor=''"/>
+</a>
+
 
 
 ---
