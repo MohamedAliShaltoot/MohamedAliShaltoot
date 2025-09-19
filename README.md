@@ -30,7 +30,7 @@ Passionate Computer Science student with expertise in **Mobile Application Devel
 
 ## 🏆 Certifications & Training
 
-| Certificate | Institute | Link |
+| Certificate | Institute / Source | Link |
 |-------------|-----------|------|
 | **Mobile App Development using Flutter** | NTI (National Telecommunication Institute) | [![View Certificate](https://img.shields.io/badge/View%20Certificate-F39C12?style=for-the-badge&logo=google-drive&logoColor=black)](https://drive.google.com/file/d/1fkOUlEqTuihnKLNZ8qIgoY7Oxn_63YPU/view?usp=sharing) |
 | **Mobile App Development [Android & Flutter]** | DEPI, Mansoura Branch | [![View Certificate](https://img.shields.io/badge/View%20Certificate-F39C12?style=for-the-badge&logo=google-drive&logoColor=black)](https://drive.google.com/file/d/1p0wVJuX75ltH2v7ZdXeMs_3f4ctjE8-Y/view?usp=sharing) |
@@ -69,43 +69,66 @@ Passionate Computer Science student with expertise in **Mobile Application Devel
 
 ## 🚀 Featured Projects
 
-### **Cross-Border E-commerce Platform**
-**Technologies:** Flutter, Dart, Firebase, REST APIs  
-**Repository:** [NTI E-commerce Stylish App](https://github.com/MohamedAliShaltoot/NTI_E-commerce-Stylish-App-)
-
-A comprehensive e-commerce solution designed for global trade facilitation:
-- Implemented secure user authentication and payment integration
-- Built responsive UI/UX supporting multiple screen sizes
-- Integrated real-time inventory management
-- **Impact:** Enhanced user engagement through intuitive design patterns
-
-### **Advanced Task Management System**
-**Technologies:** Flutter, Node.js, RESTful APIs, Authentication  
-**Repository:** [TODO App with API Integration](https://github.com/MohamedAliShaltoot/TODO_App_with_APIs_Integration-)
-
-Enterprise-grade task management application featuring:
-- Complete CRUD operations with API synchronization
-- Secure user authentication and profile management
-- Advanced security features including account deletion protocols
-- **Achievement:** Implemented robust data persistence and security measures
-
-### **Local Storage Notes Application**
-**Technologies:** Flutter, SQLite, Local Database Management  
-**Repository:** [Notes App](https://github.com/MohamedAliShaltoot/TODo_App)
-
-Efficient note-taking solution with optimized local storage:
-- Implemented SQLite database for fast data retrieval
-- Built clean architecture following SOLID principles
-- **Performance:** Achieved 99.9% data persistence reliability
-
-### **Digital Counter Application (Tasbih)**
-**Technologies:** Flutter, State Management  
-**Repository:** [Tasbih Application](https://github.com/MohamedAliShaltoot/Tasbih-application)
-
-Culturally-relevant counting application with focus on user experience:
-- Implemented intuitive gesture controls
-- Built with accessibility considerations
-- **User Feedback:** Positive reception for clean, distraction-free interface
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🛒 Cross-Border E-commerce Platform</h3>
+      <b>Tech:</b> Flutter, Dart, Firebase, REST APIs  
+      <br>
+      <a href="https://github.com/MohamedAliShaltoot/NTI_E-commerce-Stylish-App-">
+        🔗 <b>Repository</b>
+      </a>
+      <ul>
+        <li>Implemented secure user authentication & payment integration</li>
+        <li>Responsive UI/UX for multiple screen sizes</li>
+        <li>Real-time inventory management</li>
+        <li><b>Impact:</b> Enhanced user engagement through intuitive design</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>✅ Advanced Task Management System</h3>
+      <b>Tech:</b> Flutter, Node.js, REST APIs, Authentication  
+      <br>
+      <a href="https://github.com/MohamedAliShaltoot/TODO_App_with_APIs_Integration-">
+        🔗 <b>Repository</b>
+      </a>
+      <ul>
+        <li>Full CRUD operations with API sync</li>
+        <li>Secure authentication & profile management</li>
+        <li>Advanced security with account deletion protocols</li>
+        <li><b>Achievement:</b> Robust persistence & security</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📝 Local Storage Notes App</h3>
+      <b>Tech:</b> Flutter, SQLite  
+      <br>
+      <a href="https://github.com/MohamedAliShaltoot/TODo_App">
+        🔗 <b>Repository</b>
+      </a>
+      <ul>
+        <li>Fast local data retrieval with SQLite</li>
+        <li>Clean architecture with SOLID principles</li>
+        <li><b>Performance:</b> 99.9% persistence reliability</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🔢 Digital Counter (Tasbih)</h3>
+      <b>Tech:</b> Flutter, State Management  
+      <br>
+      <a href="https://github.com/MohamedAliShaltoot/Tasbih-application">
+        🔗 <b>Repository</b>
+      </a>
+      <ul>
+        <li>Intuitive gesture-based controls</li>
+        <li>Accessibility-focused design</li>
+        <li><b>User Feedback:</b> Clean & distraction-free UI</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
