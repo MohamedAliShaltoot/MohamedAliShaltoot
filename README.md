@@ -30,40 +30,36 @@ Passionate Computer Science student with expertise in **Mobile Application Devel
 
 ## 🏆 Certifications & Training
 
-1. <b>Mobile App Development using Flutter</b> — <i>NTI (National Telecommunication Institute)</i><br>
-<p align="center">
-  <a href="https://drive.google.com/file/d/1fkOUlEqTuihnKLNZ8qIgoY7Oxn_63YPU/view?usp=sharing" target="_blank">
-    <img src="https://img.shields.io/badge/View%20Certificate-F39C12?style=for-the-badge&logo=google-drive&logoColor=black" 
-         style="border-radius:14px; transition:0.3s;" 
-         onmouseover="this.style.backgroundColor='#D35400'" 
-         onmouseout="this.style.backgroundColor=''"/>
-  </a>
-</p>
+<table>
+  <tr>
+    <!-- NTI -->
+    <td align="center" width="33%" style="border:1px solid #ddd; padding:10px; border-radius:10px;">
+      <b>Mobile App Development using Flutter</b><br>
+      <i>NTI (National Telecommunication Institute)</i><br><br>
+      <a href="https://drive.google.com/file/d/1fkOUlEqTuihnKLNZ8qIgoY7Oxn_63YPU/view?usp=sharing" target="_blank">
+        <img src="https://img.shields.io/badge/View%20Certificate-F39C12?style=for-the-badge&logo=google-drive&logoColor=black" />
+      </a>
+    </td>
 
----
+    <!-- DEPI -->
+    <td align="center" width="33%" style="border:1px solid #ddd; padding:10px; border-radius:10px;">
+      <b>Mobile App Development [Android & Flutter]</b><br>
+      <i>DEPI, Mansoura Branch</i><br><br>
+      <a href="https://drive.google.com/file/d/1p0wVJuX75ltH2v7ZdXeMs_3f4ctjE8-Y/view?usp=sharing" target="_blank">
+        <img src="https://img.shields.io/badge/View%20Certificate-F39C12?style=for-the-badge&logo=google-drive&logoColor=black" />
+      </a>
+    </td>
 
-2. <b>Mobile App Development [Android & Flutter]</b> — <i>DEPI, Mansoura Branch</i><br>
-<p align="center">
-  <a href="https://drive.google.com/file/d/1p0wVJuX75ltH2v7ZdXeMs_3f4ctjE8-Y/view?usp=sharing" target="_blank">
-    <img src="https://img.shields.io/badge/View%20Certificate-F39C12?style=for-the-badge&logo=google-drive&logoColor=black" 
-         style="border-radius:14px; transition:0.3s;" 
-         onmouseover="this.style.backgroundColor='#D35400'" 
-         onmouseout="this.style.backgroundColor=''"/>
-  </a>
-</p>
-
----
-
-3. <b>Cross Platform App Development using Flutter</b> — <i>Frontend Masters (Online)</i><br>
-<p align="center">
-  <a href="https://drive.google.com/file/d/1Oe9bqEoWR-c2F7zXfSHhv4bl68-z-AhD/view?usp=sharing" target="_blank">
-    <img src="https://img.shields.io/badge/View%20Certificate-F39C12?style=for-the-badge&logo=google-drive&logoColor=black" 
-         style="border-radius:14px; transition:0.3s;" 
-         onmouseover="this.style.backgroundColor='#D35400'" 
-         onmouseout="this.style.backgroundColor=''"/>
-  </a>
-</p>
-
+    <!-- Frontend Masters -->
+    <td align="center" width="33%" style="border:1px solid #ddd; padding:10px; border-radius:10px;">
+      <b>Cross Platform App Development using Flutter</b><br>
+      <i>Frontend Masters (Online)</i><br><br>
+      <a href="https://drive.google.com/file/d/1Oe9bqEoWR-c2F7zXfSHhv4bl68-z-AhD/view?usp=sharing" target="_blank">
+        <img src="https://img.shields.io/badge/View%20Certificate-F39C12?style=for-the-badge&logo=google-drive&logoColor=black" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
