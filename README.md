@@ -53,7 +53,7 @@ Passionate Computer Science student with expertise in **Mobile Application Devel
 3. <b>Cross Platform App Development using Flutter</b> — <i>Frontend Masters (Online)</i><br>
 <a href="https://drive.google.com/file/d/1Oe9bqEoWR-c2F7zXfSHhv4bl68-z-AhD/view?usp=sharing" target="_blank">
   <img src="https://img.shields.io/badge/View%20Certificate-F39C12?style=for-the-badge&logo=google-drive&logoColor=black" 
-       style="border-radius:64px; transition:0.3s;" 
+       style="border-radius:6px; transition:0.3s;" 
        onmouseover="this.style.backgroundColor='#D35400'" 
        onmouseout="this.style.backgroundColor=''"/>
 </a>
