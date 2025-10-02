@@ -21,7 +21,7 @@ Passionate Computer Science graduate with expertise in **Mobile Application Deve
 
 ## 🎓 Education & Background
 
-- **Computer Science Graduate** - Graduated December 7, 2025
+- **Computer Science Graduate** - Graduated June 12, 2025 [ 12/7/2025 ]
 - **Specialization:** Software Engineering, Mobile Development
 - **Location:** Egypt
 - **Focus Areas:** Data Structures & Algorithms, Database Systems, System Design
