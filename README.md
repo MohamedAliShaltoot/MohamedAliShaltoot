@@ -1,19 +1,19 @@
 # Mohamed Ali Shaltoot
-## Flutter Developer | 9-Month Mobile Native Track Trainee @ ITI | Mobile Apps Intern @ NTI | Computer & Systems Engineering @ Zagazig University
+## Flutter Developer | 9-Month Mobile Native Track Trainee @ ITI | Mobile Apps Intern @ NTI | Computer & Systems Engineering Graduate @ Zagazig University
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1000&color=2E86AB&width=600&lines=Computer+Science+Student;Flutter+%26+Mobile+Developer;Backend+Development+Enthusiast;Building+Scalable+Solutions" alt="Professional Title Animation">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1000&color=2E86AB&width=600&lines=Computer+Science+Graduate;Flutter+%26+Mobile+Developer;Building+Scalable+Solutions" alt="Professional Title Animation">
 </p>
 
 ---
 
 ## 🎯 Professional Summary
 
-Passionate Computer Science student with expertise in **Mobile Application Development** and growing proficiency in **Backend Engineering**. Focused on building scalable, user-centric applications using modern technologies. Currently pursuing advanced knowledge in system design and database optimization while contributing to real-world projects.
+Passionate Computer Science graduate with expertise in **Mobile Application Development**. Focused on building scalable, user-centric applications using modern technologies. Currently pursuing advanced knowledge in system design and database optimization while contributing to real-world projects.
 
 **Key Strengths:**
 - Cross-platform mobile development with Flutter/Dart
-- RESTful API integration and backend development
+- RESTful API integration
 - Database design and management
 - Clean architecture and scalable code practices
 
@@ -21,7 +21,7 @@ Passionate Computer Science student with expertise in **Mobile Application Devel
 
 ## 🎓 Education & Background
 
-- **Computer Science Student** - Currently pursuing degree
+- **Computer Science Graduate** - Graduated December 7, 2025
 - **Specialization:** Software Engineering, Mobile Development
 - **Location:** Egypt
 - **Focus Areas:** Data Structures & Algorithms, Database Systems, System Design
@@ -32,6 +32,7 @@ Passionate Computer Science student with expertise in **Mobile Application Devel
 
 | Certificate | Institute / Source | Link |
 |-------------|-----------|------|
+| **9-Month Mobile Native Track Trainee** | ITI (Information Technology Institute) | [![In Progress](https://img.shields.io/badge/In%20Progress-FFA500?style=for-the-badge&logo=clock&logoColor=black)]() |
 | **Mobile App Development using Flutter** | NTI (National Telecommunication Institute) | [![View Certificate](https://img.shields.io/badge/View%20Certificate-F39C12?style=for-the-badge&logo=google-drive&logoColor=black)](https://drive.google.com/file/d/1fkOUlEqTuihnKLNZ8qIgoY7Oxn_63YPU/view?usp=sharing) |
 | **Mobile App Development [Android & Flutter]** | DEPI, Mansoura Branch | [![View Certificate](https://img.shields.io/badge/View%20Certificate-F39C12?style=for-the-badge&logo=google-drive&logoColor=black)](https://drive.google.com/file/d/1p0wVJuX75ltH2v7ZdXeMs_3f4ctjE8-Y/view?usp=sharing) |
 | **Cross Platform App Development using Flutter** | Frontend Masters (Online) | [![View Certificate](https://img.shields.io/badge/View%20Certificate-F39C12?style=for-the-badge&logo=google-drive&logoColor=black)](https://drive.google.com/file/d/1Oe9bqEoWR-c2F7zXfSHhv4bl68-z-AhD/view?usp=sharing) |
@@ -59,13 +60,7 @@ Passionate Computer Science student with expertise in **Mobile Application Devel
       </div>
     </td>
     <td align="center" width="25%">
-      <h4>🗄️ Backend & Database</h4>
-      <div style="min-width:160px">
-        <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-      </div>
-      <div style="min-width:160px">
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-      </div>
+      <h4>🗄️ Database</h4>
       <div style="min-width:160px">
         <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
       </div>
@@ -128,7 +123,7 @@ Passionate Computer Science student with expertise in **Mobile Application Devel
     </td>
     <td width="50%" valign="top">
       <h3>✅ Advanced Task Management System</h3>
-      <b>Tech:</b> Flutter, Node.js, REST APIs, Authentication  
+      <b>Tech:</b> Flutter, REST APIs, Authentication  
       <br>
       <a href="https://github.com/MohamedAliShaltoot/TODO_App_with_APIs_Integration-">
         🔗 <b>Repository</b>
@@ -196,7 +191,6 @@ Passionate Computer Science student with expertise in **Mobile Application Devel
 
 **2024 Objectives:**
 - Contribute to 3+ open-source Flutter projects
-- Complete backend development certification
 - Build and deploy a full-stack application
 - Expand knowledge in cloud technologies
 
@@ -207,7 +201,6 @@ Passionate Computer Science student with expertise in **Mobile Application Devel
 **Actively Seeking:**
 - Software Engineering Internships
 - Mobile Development Projects
-- Backend Development Collaborations
 - Open Source Contributions
 
 **Available For:**
