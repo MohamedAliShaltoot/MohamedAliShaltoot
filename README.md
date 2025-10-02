@@ -1,5 +1,5 @@
 # Mohamed Ali Shaltoot
-## Computer Science Student | Mobile & Backend Developer
+## Flutter Developer | 9-Month Mobile Native Track Trainee @ ITI | Mobile Apps Intern @ NTI | Computer & Systems Engineering @ Zagazig University
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1000&color=2E86AB&width=600&lines=Computer+Science+Student;Flutter+%26+Mobile+Developer;Backend+Development+Enthusiast;Building+Scalable+Solutions" alt="Professional Title Animation">
