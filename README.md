@@ -9,12 +9,10 @@
 
 ## 🎯 Professional Summary
 
-Passionate Computer Science graduate with expertise in **Mobile Application Development**. Focused on building scalable, user-centric applications using modern technologies. Currently pursuing advanced knowledge in system design and database optimization while contributing to real-world projects.
-
+Passionate Computer Science graduate with expertise in **Mobile Application Development**. Focused on building scalable, user-centric applications using modern technologies.
 **Key Strengths:**
 - Cross-platform mobile development with Flutter/Dart
 - RESTful API integration
-- Database design and management
 - Clean architecture and scalable code practices
 
 ---
@@ -24,7 +22,7 @@ Passionate Computer Science graduate with expertise in **Mobile Application Deve
 - **Computer Science Graduate** - Graduated June 12, 2025 [ 12/7/2025 ]
 - **Specialization:** Software Engineering, Mobile Development
 - **Location:** Egypt
-- **Focus Areas:** Data Structures & Algorithms, Database Systems, System Design
+- **Focus Areas:** Data Structures & Algorithms, Database Systems
 
 ---
 
@@ -179,20 +177,6 @@ Passionate Computer Science graduate with expertise in **Mobile Application Deve
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MohamedAliShaltoot&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" width="95%">
 </p>
 
----
-
-## 🎯 Current Focus & Goals
-
-**Currently Learning:**
-- Advanced system design patterns
-- Microservices architecture
-- Database optimization techniques
-- DevOps practices and CI/CD
-
-**2024 Objectives:**
-- Contribute to 3+ open-source Flutter projects
-- Build and deploy a full-stack application
-- Expand knowledge in cloud technologies
 
 ---
 
@@ -202,12 +186,6 @@ Passionate Computer Science graduate with expertise in **Mobile Application Deve
 - Software Engineering Internships
 - Mobile Development Projects
 - Open Source Contributions
-
-**Available For:**
-- Flutter/Mobile app development consulting
-- Code reviews and technical mentoring
-- Collaborative development projects
-- Technical writing and documentation
 
 ---
 
