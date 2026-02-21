@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,100:818cf8&height=200&section=header&text=Mohamed%20Ali%20Shaltoot&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Flutter%20Developer%20%7C%20Mobile%20Engineer&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,100:818cf8&height=200&section=header&text=Mohamed%20Ali%20Shaltoot&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Android / Flutter%20Developer%20%7C%20Mobile%20Engineer&descAlignY=58&descSize=18" width="100%"/>
 
 <br/>
 
@@ -24,7 +24,7 @@
 
 ```dart
 class MohamedAliShaltoot {
-  final String role     = "Flutter Developer";
+  final String role     = "Android / Flutter Developer";
   final String degree   = "Computer & Systems Engineering — Zagazig University";
   final String training = "9-Month Mobile Native Track @ ITI (In Progress)";
   final String location = "Egypt 🇪🇬";
