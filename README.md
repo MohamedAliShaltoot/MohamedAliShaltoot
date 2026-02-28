@@ -77,6 +77,32 @@ class MohamedAliShaltoot {
 <tr>
 <td width="50%" valign="top">
 
+### 🌤️ SkyLogic Weather App
+![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/-Jetpack%20Compose-4285F4?style=flat-square)
+![Weather API](https://img.shields.io/badge/-Weather%20API-00C853?style=flat-square)
+
+Modern Android weather application built with Kotlin and Jetpack Compose. Provides real-time weather updates, hourly forecasts, and 5-day predictions. Users can customize units, language, and location (GPS or map selection) and manage favorite locations.
+
+[![Repo](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MohamedAliShaltoot/ITI_Kotlin_SkyLogic_App)
+
+</td>
+<td width="50%" valign="top">
+
+### 🍽️ FoodTrack Meals App
+![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=java&logoColor=white)
+![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![Authentication](https://img.shields.io/badge/-Authentication-34D399?style=flat-square)
+
+Android (Java) application that helps users explore, organize, and manage meals. Users can search for recipes, save favorites, and create weekly meal plans. Supports both authenticated users and guest mode with different feature access levels.
+
+[![Repo](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MohamedAliShaltoot/Android_Project_Meals_App)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
 ### 🛒 Cross-Border E-commerce Platform
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
@@ -97,30 +123,6 @@ Full-featured shopping app with secure authentication, payment integration, and 
 Full CRUD task manager synced with a backend API. Features secure authentication, profile management, and account security protocols.
 
 [![Repo](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MohamedAliShaltoot/TODO_App_with_APIs_Integration-)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 📝 Local Storage Notes App
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-
-Offline-first notes app with fast SQLite storage, built following Clean Architecture and SOLID principles. 99.9% data persistence reliability.
-
-[![Repo](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MohamedAliShaltoot/TODo_App)
-
-</td>
-<td width="50%" valign="top">
-
-### 🔢 Digital Tasbih Counter
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![State Mgmt](https://img.shields.io/badge/-State%20Management-818CF8?style=flat-square)
-
-Minimalist, accessibility-focused spiritual counter app with intuitive gesture controls and a clean, distraction-free UI.
-
-[![Repo](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MohamedAliShaltoot/Tasbih-application)
 
 </td>
 </tr>
