@@ -117,7 +117,7 @@ Full-featured shopping app with secure authentication, payment integration, and 
 
 ### 🗂️ Trello App
 ![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white)
-![REST API](https://img.shields.io/badge/-REST%20API-FF6C37?style=flat-square)
+![REST API](https://img.shields.io/badge/REST%20APIs-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 
 🗂️ A highly polished, offline-first Trello clone for Android. Built with Kotlin, Jetpack Compose, Room, and a strict MVI architecture. Features advanced drag-and-drop, swipe gestures, and a fluid, dynamic UI.
