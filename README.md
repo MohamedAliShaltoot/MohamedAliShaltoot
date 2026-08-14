@@ -106,7 +106,7 @@ Android (Java) application that helps users explore, organize, and manage meals.
 ### 🛒 Cross-Border E-commerce Platform
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![REST API](https://img.shields.io/badge/REST%20APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20APIs-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
 Full-featured shopping app with secure authentication, payment integration, and real-time inventory management. Responsive UI across all screen sizes.
 
