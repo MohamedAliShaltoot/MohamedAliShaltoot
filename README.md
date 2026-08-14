@@ -106,7 +106,7 @@ Android (Java) application that helps users explore, organize, and manage meals.
 ### 🛒 Cross-Border E-commerce Platform
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![REST API](https://img.shields.io/badge/-REST%20API-FF6C37?style=flat-square)
+![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 
 Full-featured shopping app with secure authentication, payment integration, and real-time inventory management. Responsive UI across all screen sizes.
 
@@ -115,14 +115,14 @@ Full-featured shopping app with secure authentication, payment integration, and 
 </td>
 <td width="50%" valign="top">
 
-### ✅ Task Management System
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+### 🗂️ Trello App
+![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white)
 ![REST API](https://img.shields.io/badge/-REST%20API-FF6C37?style=flat-square)
 ![Auth](https://img.shields.io/badge/-Auth-34D399?style=flat-square)
 
-Full CRUD task manager synced with a backend API. Features secure authentication, profile management, and account security protocols.
+🗂️ A highly polished, offline-first Trello clone for Android. Built with Kotlin, Jetpack Compose, Room, and a strict MVI architecture. Features advanced drag-and-drop, swipe gestures, and a fluid, dynamic UI.
 
-[![Repo](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MohamedAliShaltoot/TODO_App_with_APIs_Integration-)
+[![Repo](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)]([https://github.com/MohamedAliShaltoot/TODO_App_with_APIs_Integration-](https://github.com/MohamedAliShaltoot/Trello_App))
 
 </td>
 </tr>
