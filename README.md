@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,100:818cf8&height=200&section=header&text=Mohamed%20Ali%20Shaltoot&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Android/Flutter%20Developer%20%7C%20Mobile%20Engineer&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,100:818cf8&height=200&section=header&text=Mohamed%20Ali%20Shaltoot&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Mobile%20Software%20Engineer%20%E2%80%A2%20Android%20%26%20Flutter&descAlignY=58&descSize=18" width="100%"/>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Flutter+%26+Dart+Developer;Clean+Architecture+Enthusiast;Building+Scalable+Mobile+Apps;Open+to+Internships+%26+Projects)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=Native+Android+(Kotlin+%26+Compose);Cross-Platform+Flutter+%26+Dart;Clean+Architecture+%26+Reactive+State;Building+High-Performance+Mobile+Apps)](https://git.io/typing-svg)
 
 <br/>
 
@@ -14,7 +14,7 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=MohamedAliShaltoot&style=for-the-badge&color=38bdf8&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=MohamedAliShaltoot&style=flat-square&color=38bdf8&label=PROFILE+VIEWS)
 
 </div>
 
@@ -22,50 +22,37 @@
 
 ## 👨‍💻 About Me
 
-```dart
-class MohamedAliShaltoot {
-  final String role     = "Android / Flutter Developer";
-  final String degree   = "Computer & Systems Engineering — Zagazig University";
-  final String training = "9-Month Mobile Native Track @ ITI (In Progress)";
-  final String location = "Egypt 🇪🇬";
-  final List<String> strengths = [
-    "Cross-platform Mobile Development",
-    "Clean Architecture & SOLID Principles",
-    "RESTful API Integration",
-    "State Management (BLoC / Provider)",
-  ];
-  final String status = "Open to Internships & Mobile Projects 🚀";
-}
-```
-
+<table>
+  <tr>
+    <td width="30%" align="center" valign="middle">
+      <img src="./profile.jpeg" alt="Mohamed Ali Shaltoot" width="170px" style="border-radius: 50%; max-width: 100%; border: 3px solid #38bdf8; display: block; margin: auto;"/>
+    </td>
+    <td width="70%" valign="top">
+      <p>
+        Hi there! 👋 I am a <strong>Mobile Software Engineer</strong> specialized in crafting high-performance native Android and cross-platform applications. Passionate about <strong>Clean Architecture</strong>, reactive UI, and robust system design.
+      </p>
+      <ul>
+        <li>🎓 <strong>Education:</strong> Computer & Systems Engineering — Zagazig University</li>
+        <li>🚀 <strong>Specialization:</strong> Android (Kotlin, Jetpack Compose) & Flutter (Dart)</li>
+        <li>🏛️ <strong>Core Principles:</strong> Clean Architecture, MVI / MVVM, SOLID Principles</li>
+        <li>📍 <strong>Location:</strong> Egypt 🇪🇬</li>
+        <li>⚡ <strong>Focus:</strong> Offline-First Apps, Custom Interactions & Fluid UI/UX</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack & Tooling
 
 <div align="center">
 
-### 📱 Mobile Development
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-
-### 🗄️ Backend & Database
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-### 💻 Languages
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### ⚙️ Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+| Domain | Technologies & Libraries |
+| :--- | :--- |
+| **Mobile Core** | ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) ![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white) ![Jetpack Compose](https://img.shields.io/badge/-Jetpack%20Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white) ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white) |
+| **Architecture & State** | ![Clean Arch](https://img.shields.io/badge/-Clean%20Architecture-8A2BE2?style=flat-square) ![MVI](https://img.shields.io/badge/-MVI%20%2F%20MVVM-4CAF50?style=flat-square) ![Dagger Hilt](https://img.shields.io/badge/-Hilt-536DFE?style=flat-square) ![Coroutines/Flow](https://img.shields.io/badge/-Flow%20%26%20Coroutines-009688?style=flat-square) ![BLoC](https://img.shields.io/badge/-BLoC-02569B?style=flat-square) |
+| **Data & Networking** | ![Room](https://img.shields.io/badge/-Room%20DB-3DDC84?style=flat-square) ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![REST APIs](https://img.shields.io/badge/-REST%20APIs-FF6C37?style=flat-square&logo=postman&logoColor=white) |
+| **Development Tools** | ![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white) ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) |
 
 </div>
 
@@ -77,52 +64,52 @@ class MohamedAliShaltoot {
 <tr>
 <td width="50%" valign="top">
 
-### 🌤️ SkyLogic Weather App
+### 🗂️ Trello-Inspired Kanban Board
 ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-![Jetpack Compose](https://img.shields.io/badge/-Jetpack%20Compose-4285F4?style=flat-square)
-![Weather API](https://img.shields.io/badge/-Weather%20API-00C853?style=flat-square)
+![Jetpack Compose](https://img.shields.io/badge/-Compose-4285F4?style=flat-square)
+![Room](https://img.shields.io/badge/-Room-3DDC84?style=flat-square)
 
-Modern Android weather application built with Kotlin and Jetpack Compose. Provides real-time weather updates, hourly forecasts, and 5-day predictions. Users can customize units, language, and location (GPS or map selection) and manage favorite locations.
+An offline-first task management application featuring interactive Kanban boards, advanced drag-and-drop mechanics, fluid animations, and a robust MVI state architecture.
 
-[![Repo](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MohamedAliShaltoot/ITI_Kotlin_SkyLogic_App)
+[![View Code](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MohamedAliShaltoot/Trello_App)
 
 </td>
 <td width="50%" valign="top">
 
-### 🍽️ FoodTrack Meals App
-![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=java&logoColor=white)
-![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white)
-![Authentication](https://img.shields.io/badge/-Authentication-34D399?style=flat-square)
+### 🌤️ SkyLogic Weather App
+![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Compose](https://img.shields.io/badge/-Compose-4285F4?style=flat-square)
+![OpenWeather](https://img.shields.io/badge/-Weather%20API-00C853?style=flat-square)
 
-Android (Java) application that helps users explore, organize, and manage meals. Users can search for recipes, save favorites, and create weekly meal plans. Supports both authenticated users and guest mode with different feature access levels.
+A modern Android weather application built with Jetpack Compose. Delivers real-time forecasts, GPS/custom location pinning, unit switching, and local caching for favorite spots.
 
-[![Repo](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MohamedAliShaltoot/Android_Project_Meals_App)
+[![View Code](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MohamedAliShaltoot/ITI_Kotlin_SkyLogic_App)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🛒 Cross-Border E-commerce Platform
+### 🛒 Cross-Border E-Commerce Platform
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![REST API](https://img.shields.io/badge/REST%20APIs-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![REST API](https://img.shields.io/badge/-REST%20APIs-FF6C37?style=flat-square)
 
-Full-featured shopping app with secure authentication, payment integration, and real-time inventory management. Responsive UI across all screen sizes.
+Full-scale cross-platform retail app with secure authentication, cart/order management, payment flow integration, and real-time inventory tracking.
 
-[![Repo](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MohamedAliShaltoot/NTI_E-commerce-Stylish-App-)
+[![View Code](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MohamedAliShaltoot/NTI_E-commerce-Stylish-App-)
 
 </td>
 <td width="50%" valign="top">
 
-### 🗂️ Trello App
-![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20APIs-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+### 🍽️ FoodTrack Meals & Planning
+![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=java&logoColor=white)
+![Android SDK](https://img.shields.io/badge/-Android%20SDK-3DDC84?style=flat-square&logo=android&logoColor=white)
+![Local DB](https://img.shields.io/badge/-Local%20Cache-34D399?style=flat-square)
 
-🗂️ A highly polished, offline-first Trello clone for Android. Built with Kotlin, Jetpack Compose, Room, and a strict MVI architecture. Features advanced drag-and-drop, swipe gestures, and a fluid, dynamic UI.
+Android meal exploration and weekly meal planner supporting authentication, custom recipe saving, offline caching, and guest-mode capabilities.
 
-[![Repo](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)]([https://github.com/MohamedAliShaltoot/TODO_App_with_APIs_Integration-](https://github.com/MohamedAliShaltoot/Trello_App))
+[![View Code](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MohamedAliShaltoot/Android_Project_Meals_App)
 
 </td>
 </tr>
@@ -130,27 +117,27 @@ Full-featured shopping app with secure authentication, payment integration, and 
 
 ---
 
-## 🏆 Certifications
+## 🏆 Credentials & Certifications
 
-| Certificate | Issuer | Status |
-|:---|:---|:---:|
-| Mobile Native Track — 9 Months | ITI (Information Technology Institute) | 🟡 In Progress |
-| [Mobile App Development using Flutter](https://drive.google.com/file/d/1fkOUlEqTuihnKLNZ8qIgoY7Oxn_63YPU/view?usp=sharing) | NTI (National Telecommunication Institute) | ✅ Certified |
-| [Mobile App Development — Android & Flutter](https://drive.google.com/file/d/1p0wVJuX75ltH2v7ZdXeMs_3f4ctjE8-Y/view?usp=sharing) | DEPI — Mansoura Branch | ✅ Certified |
-| [Cross Platform App Development using Flutter](https://drive.google.com/file/d/1Oe9bqEoWR-c2F7zXfSHhv4bl68-z-AhD/view?usp=sharing) | Frontend Masters | ✅ Certified |
+| Program / Credential | Organization | Status / Link |
+| :--- | :--- | :---: |
+| **Mobile Native Track (9-Month)** | Information Technology Institute (ITI) | 🟡 Completed |
+| **Mobile App Development with Flutter** | National Telecommunication Institute (NTI) | [View Certificate ↗](https://drive.google.com/file/d/1fkOUlEqTuihnKLNZ8qIgoY7Oxn_63YPU/view?usp=sharing) |
+| **Mobile App Development — Android & Flutter** | Digital Egypt Pioneers Initiative (DEPI) | [View Certificate ↗](https://drive.google.com/file/d/1p0wVJuX75ltH2v7ZdXeMs_3f4ctjE8-Y/view?usp=sharing) |
+| **Cross-Platform App Development** | Frontend Masters | [View Certificate ↗](https://drive.google.com/file/d/1Oe9bqEoWR-c2F7zXfSHhv4bl68-z-AhD/view?usp=sharing) |
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <div align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=MohamedAliShaltoot&theme=tokyonight&hide_border=true&border_radius=10" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedAliShaltoot&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&langs_count=6" width="42%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedAliShaltoot&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&langs_count=6" width="45%"/>
 
-<br/>
+<br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MohamedAliShaltoot&theme=tokyo-night&hide_border=true&radius=10" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MohamedAliShaltoot&theme=tokyo-night&hide_border=true&radius=10" width="96%"/>
 
 </div>
 
@@ -160,6 +147,6 @@ Full-featured shopping app with secure authentication, payment integration, and 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:818cf8,100:38bdf8&height=120&section=footer" width="100%"/>
 
-*"Building tomorrow's solutions with today's code"*
+*"Engineering clean architectures, fluid motion, and resilient mobile experiences."*
 
 </div>
