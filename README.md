@@ -1,6 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,100:818cf8&height=200&section=header&text=Mohamed%20Ali%20Shaltoot&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Mobile%20Software%20Engineer%20%E2%80%A2%20Android%20%26%20Flutter&descAlignY=58&descSize=18" width="100%"/>
+# 📱 Mohamed Ali Shaltoot
+### Mobile Software Engineer • Native Android & Flutter
+
+
+Kotlin • Jetpack Compose • Flutter • Dart • Clean Architecture • MVI
+
 
 <br/>
 
