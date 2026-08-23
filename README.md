@@ -25,17 +25,16 @@
 <table>
   <tr>
     <td width="30%" align="center" valign="middle">
-      <img src="./pxArt_2.png" 
-           alt="Mohamed Ali Shaltoot" 
-           width="170px" 
-           style="border-radius: 50%; 
-                  max-width: 100%; 
-                  border: 3px solid #38bdf8; 
-                  display: block; 
-                  margin: auto;
-                  image-rendering: pixelated; 
-                  image-rendering: crisp-edges; 
-                  image-rendering: -moz-crisp-edges;"/>
+     <img src="./profile-animated.gif" 
+     alt="Mohamed Ali Shaltoot" 
+     width="170px" 
+     style="border-radius: 50%; 
+            max-width: 100%; 
+            border: 3px solid #38bdf8; 
+            display: block; 
+            margin: auto;
+            image-rendering: pixelated; 
+            image-rendering: crisp-edges;"/>
     </td>
     <td width="70%" valign="top">
       <p>
