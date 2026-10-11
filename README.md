@@ -84,7 +84,7 @@ Kotlin • Jetpack Compose • Flutter • Dart • Clean Architecture • MVI
 <tr>
 <td width="50%" valign="top">
 
-### 🗂️ Trello-Inspired Kanban Board
+### 🗂️ Trello-Inspired Kanban Board (Mersam)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 ![Jetpack Compose](https://img.shields.io/badge/-Compose-4285F4?style=flat-square)
 ![Room](https://img.shields.io/badge/-Room-3DDC84?style=flat-square)
