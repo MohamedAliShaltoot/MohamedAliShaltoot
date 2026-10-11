@@ -139,7 +139,8 @@ Android meal exploration and weekly meal planner supporting authentication, cust
 
 | Credential | Issuing Organization | Status / Verify |
 | :--- | :--- | :---: |
-| **Mobile Native Track (9-Month)** | Information Technology Institute (ITI) | 🟡 Completed |
+| **Mobile Native Track (9-Month Professional Program)** | Information Technology Institute (ITI) | [Verify ↗](https://drive.google.com/file/d/1WZ5hIYV6dxvcqxof3xsqgGwUiVSBoZtx/view?usp=sharing) |
+| **Mobile Application Development Workshop** | ITI — JETs Program | [Verify ↗](https://drive.google.com/file/d/1KfeYdXNycR95yyE7dC_Im7JIU8XTojZ_/view?usp=sharing) |
 | **Mobile App Development with Flutter** | National Telecommunication Institute (NTI) | [Verify ↗](https://drive.google.com/file/d/1fkOUlEqTuihnKLNZ8qIgoY7Oxn_63YPU/view?usp=sharing) |
 | **Mobile App Development — Android & Flutter** | Digital Egypt Pioneers Initiative (DEPI) | [Verify ↗](https://drive.google.com/file/d/1p0wVJuX75ltH2v7ZdXeMs_3f4ctjE8-Y/view?usp=sharing) |
 | **Cross-Platform App Development** | Frontend Masters | [Verify ↗](https://drive.google.com/file/d/1Oe9bqEoWR-c2F7zXfSHhv4bl68-z-AhD/view?usp=sharing) |
