@@ -9,17 +9,21 @@ Kotlin • Jetpack Compose • Flutter • Dart • Clean Architecture • MVI
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=Native+Android+(Kotlin+%26+Compose);Cross-Platform+Flutter+%26+Dart;Clean+Architecture+%26+Reactive+State;Building+High-Performance+Mobile+Apps)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg" target="_blank" rel="noopener noreferrer">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=Native+Android+(Kotlin+%26+Compose);Cross-Platform+Flutter+%26+Dart;Clean+Architecture+%26+Reactive+State;Building+High-Performance+Mobile+Apps" alt="Typing SVG" />
+</a>
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhamed-ali-shaltoot/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamedali3092002@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MohamedAliShaltoot)
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=MohamedAliShaltoot&style=flat-square&color=38bdf8&label=PROFILE+VIEWS)
+<a href="https://www.linkedin.com/in/muhamed-ali-shaltoot/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:mohamedali3092002@gmail.com" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+</a>
+<a href="https://github.com/MohamedAliShaltoot" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
 
 </div>
 
@@ -30,16 +34,16 @@ Kotlin • Jetpack Compose • Flutter • Dart • Clean Architecture • MVI
 <table>
   <tr>
     <td width="30%" align="center" valign="middle">
-     <img src="./profile-animated.gif" 
-     alt="Mohamed Ali Shaltoot" 
-     width="170px" 
-     style="border-radius: 50%; 
-            max-width: 100%; 
-            border: 3px solid #38bdf8; 
-            display: block; 
-            margin: auto;
-            image-rendering: pixelated; 
-            image-rendering: crisp-edges;"/>
+      <img src="./profile-animated.gif" 
+           alt="Mohamed Ali Shaltoot" 
+           width="170px" 
+           style="border-radius: 50%; 
+                  max-width: 100%; 
+                  border: 3px solid #38bdf8; 
+                  display: block; 
+                  margin: auto;
+                  image-rendering: pixelated; 
+                  image-rendering: crisp-edges;"/>
     </td>
     <td width="70%" valign="top">
       <p>
@@ -87,7 +91,11 @@ Kotlin • Jetpack Compose • Flutter • Dart • Clean Architecture • MVI
 
 An offline-first task management application featuring interactive Kanban boards, advanced drag-and-drop mechanics, fluid animations, and a robust MVI state architecture.
 
-[![View Code](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MohamedAliShaltoot/Trello_App)
+<br/>
+
+<a href="https://github.com/MohamedAliShaltoot/Trello_App" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repository" />
+</a>
 
 </td>
 <td width="50%" valign="top">
@@ -99,7 +107,11 @@ An offline-first task management application featuring interactive Kanban boards
 
 A modern Android weather application built with Jetpack Compose. Delivers real-time forecasts, GPS/custom location pinning, unit switching, and local caching for favorite spots.
 
-[![View Code](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MohamedAliShaltoot/ITI_Kotlin_SkyLogic_App)
+<br/>
+
+<a href="https://github.com/MohamedAliShaltoot/ITI_Kotlin_SkyLogic_App" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repository" />
+</a>
 
 </td>
 </tr>
@@ -113,7 +125,11 @@ A modern Android weather application built with Jetpack Compose. Delivers real-t
 
 Full-scale cross-platform retail app with secure authentication, cart/order management, payment flow integration, and real-time inventory tracking.
 
-[![View Code](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MohamedAliShaltoot/NTI_E-commerce-Stylish-App-)
+<br/>
+
+<a href="https://github.com/MohamedAliShaltoot/NTI_E-commerce-Stylish-App-" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repository" />
+</a>
 
 </td>
 <td width="50%" valign="top">
@@ -125,7 +141,11 @@ Full-scale cross-platform retail app with secure authentication, cart/order mana
 
 Android meal exploration and weekly meal planner supporting authentication, custom recipe saving, offline caching, and guest-mode capabilities.
 
-[![View Code](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MohamedAliShaltoot/Android_Project_Meals_App)
+<br/>
+
+<a href="https://github.com/MohamedAliShaltoot/Android_Project_Meals_App" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repository" />
+</a>
 
 </td>
 </tr>
@@ -139,11 +159,11 @@ Android meal exploration and weekly meal planner supporting authentication, cust
 
 | Credential | Issuing Organization | Status / Verify |
 | :--- | :--- | :---: |
-| **Mobile Native Track (9-Month Professional Program)** | Information Technology Institute (ITI) | [Verify ↗](https://drive.google.com/file/d/1WZ5hIYV6dxvcqxof3xsqgGwUiVSBoZtx/view?usp=sharing) |
-| **Mobile Application Development Workshop** | ITI — JETs Program | [Verify ↗](https://drive.google.com/file/d/1KfeYdXNycR95yyE7dC_Im7JIU8XTojZ_/view?usp=sharing) |
-| **Mobile App Development with Flutter** | National Telecommunication Institute (NTI) | [Verify ↗](https://drive.google.com/file/d/1fkOUlEqTuihnKLNZ8qIgoY7Oxn_63YPU/view?usp=sharing) |
-| **Mobile App Development — Android & Flutter** | Digital Egypt Pioneers Initiative (DEPI) | [Verify ↗](https://drive.google.com/file/d/1p0wVJuX75ltH2v7ZdXeMs_3f4ctjE8-Y/view?usp=sharing) |
-| **Cross-Platform App Development** | Frontend Masters | [Verify ↗](https://drive.google.com/file/d/1Oe9bqEoWR-c2F7zXfSHhv4bl68-z-AhD/view?usp=sharing) |
+| 🎓 **Mobile Native Track (9-Month Professional Program)** <br/> ![Flagship Diploma](https://img.shields.io/badge/ITI-Flagship%20Diploma-blue?style=flat-square) | **Information Technology Institute (ITI)** | <a href="https://drive.google.com/file/d/1WZ5hIYV6dxvcqxof3xsqgGwUiVSBoZtx/view?usp=sharing" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Official_Diploma-View_Document_↗-1d4ed8?style=for-the-badge&logo=googledrive&logoColor=white&labelColor=0f172a" alt="Verify Diploma" /></a> |
+| ⚡ **Mobile Application Development Workshop** <br/> ![JETs Program](https://img.shields.io/badge/ITI-JETs%20Program-0284c7?style=flat-square) | **ITI — JETs Program** | <a href="https://drive.google.com/file/d/1KfeYdXNycR95yyE7dC_Im7JIU8XTojZ_/view?usp=sharing" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Workshop-Verify_Credential_↗-0284c7?style=flat-square&logo=googledrive&logoColor=white&labelColor=1e293b" alt="Verify Workshop" /></a> |
+| 📱 **Mobile App Development with Flutter** <br/> ![NTI Diploma](https://img.shields.io/badge/NTI-Certified-0284c7?style=flat-square) | **National Telecommunication Institute (NTI)** | <a href="https://drive.google.com/file/d/1fkOUlEqTuihnKLNZ8qIgoY7Oxn_63YPU/view?usp=sharing" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/NTI_Diploma-Verify_Credential_↗-0284c7?style=flat-square&logo=googledrive&logoColor=white&labelColor=1e293b" alt="Verify Certificate" /></a> |
+| **Mobile App Development — Android & Flutter** | Digital Egypt Pioneers Initiative (DEPI) | <a href="https://drive.google.com/file/d/1p0wVJuX75ltH2v7ZdXeMs_3f4ctjE8-Y/view?usp=sharing" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Verify-Credential_↗-334155?style=flat-square&logo=googledrive&logoColor=white&labelColor=0f172a" alt="Verify" /></a> |
+| **Cross-Platform App Development** | Frontend Masters | <a href="https://drive.google.com/file/d/1Oe9bqEoWR-c2F7zXfSHhv4bl68-z-AhD/view?usp=sharing" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Verify-Credential_↗-334155?style=flat-square&logo=googledrive&logoColor=white&labelColor=0f172a" alt="Verify" /></a> |
 
 </div>
 
@@ -166,8 +186,7 @@ Android meal exploration and weekly meal planner supporting authentication, cust
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:818cf8,100:38bdf8&height=120&section=footer" width="100%"/>
-
-*"Engineering clean architectures, fluid motion, and resilient mobile experiences."*
+> *"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."*  
+> — **Martin Fowler**
 
 </div>
